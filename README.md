@@ -8,9 +8,9 @@ You can run the demonstration by executing the demo.sh script. Minipulate the th
 
 The main files are: 
 
-Server.sol - the Solidity smart contract
-Crypto.py - the public/private key generation and encryption/decryption methods
-User.js
-Worker.js
-Company.js
+- Server.sol - the Solidity smart contract
+- Crypto.py - the public/private key generation and encryption/decryption methods
+- User.js
+- Worker.js
+- Company.js
 
