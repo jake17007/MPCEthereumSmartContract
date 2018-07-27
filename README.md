@@ -1,4 +1,4 @@
-# A Secure Multi-Pary Computation Smart Contract on Ethereum
+# A Secure Multi-Party Computation Smart Contract on Ethereum
 
 An application that demonstrates the use of secure multi-party computation on the Ethereum blockchain
 
