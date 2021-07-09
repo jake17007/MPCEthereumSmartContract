@@ -1,3 +1,6 @@
+TLDR: A smart contract that computes the average of 3 ages without revealing the user's age to anyone
+
+
 # A Secure Multi-Party Computation Smart Contract on Ethereum
 
 An application that demonstrates the use of secure multi-party computation on the Ethereum blockchain
